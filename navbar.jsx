@@ -14,6 +14,9 @@ const navbar = () => {
         </div>
        
       </div>
+      <div>
+        
+      </div>
     </nav>
   )
 }
